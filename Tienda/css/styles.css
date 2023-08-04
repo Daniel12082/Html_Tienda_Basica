@@ -65,6 +65,10 @@ margin: 0;
     justify-content: center;
     color: white;
 }
+.texto>h1{
+    font-size: 100px;
+    margin-bottom: 1%;
+}
 .ham{
     width: 50%;
     height: 100%;
